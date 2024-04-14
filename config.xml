@@ -43,6 +43,7 @@
         <package name="peid.vm"/>
         <package name="processdump.vm"/>
         <package name="pestudio.vm"/>
+	<package name="python.vm"/>
         <package name="regshot.vm"/>
         <package name="rundotnetdll.vm"/>
         <package name="scdbg.vm"/>
